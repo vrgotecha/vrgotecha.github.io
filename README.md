@@ -1,3 +1,4 @@
+theme: Architect
 Headers
 # H1
 ## H2
